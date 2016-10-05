@@ -1,0 +1,7 @@
+﻿  Main.cpp
+d:\1link\week3\thread_final\thread_final\main.cpp(119): warning C4018: '<': signed/unsigned mismatch
+d:\1link\week3\thread_final\thread_final\main.cpp(145): warning C4101: 'hFile': unreferenced local variable
+d:\1link\week3\thread_final\thread_final\main.cpp(146): warning C4101: 'szBuf': unreferenced local variable
+d:\1link\week3\thread_final\thread_final\main.cpp(46): warning C4715: 'GetLastWriteTime': not all control paths return a value
+  Thread_Final.vcxproj -> D:\1LINK\Week3\Thread_Final\Debug\Thread_Final.exe
+  Thread_Final.vcxproj -> D:\1LINK\Week3\Thread_Final\Debug\Thread_Final.pdb (Partial PDB)
